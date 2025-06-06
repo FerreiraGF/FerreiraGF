@@ -12,11 +12,10 @@
 
 <br>
 
-
 <div align="center">
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FerreiraGF&hide=contribs,issues&hide_rank=true&show_icons=true&theme=blue_navy&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraGF&layout=compact&theme=blue_navy" /></a> |
-| ---------------- | ---------------- |
+  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FerreiraGF&hide=contribs,issues&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide_border=true" alt="FerreiraGF's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraGF&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </div>
 
