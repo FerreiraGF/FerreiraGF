@@ -19,12 +19,11 @@
 
 <h4 align="center">Languages and Tools</h4>
 
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,react,js,html,css,npm,spring,postgres,vscode,git&perline=6)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,react,js,html,css,spring,postgres,vscode,git" />
-  </a>
-</p>
+</div>
 
 #
 <picture align="center">
