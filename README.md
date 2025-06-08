@@ -4,8 +4,17 @@
 
 </div>
 
-  
-* Computer Engineering Student at UNIJORGE  
+**Sobre mim**
+* 🎓 Estudante de Engenharia da Computação na [UNIJORGE](https://unijorge.edu.br).
+* 🔍 Atualmente estou me aprofundando em Java e React.
+* 🚀 Estou sempre em busca de desbloquear novos conhecimentos e desafios.
+
+ #
+**About me**
+ * 🎓 Computer Engineering student at [UNIJORGE](https://unijorge.edu.br).
+ * 🔍 Currently diving deeper into Java and React.
+ * 🚀 Always eager to learn new things and take on fresh challenges.
+
 
 
 #
